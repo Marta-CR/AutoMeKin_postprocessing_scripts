@@ -18,8 +18,8 @@ These scripts ensure your data is well-organized and ready for further analysis 
 
 **Step 2: Consolidate Outputs with outputs-extractor_mod.py**
 
-    Return to your main directory and\\
-    1. execute the outputs-extractor_mod.py script.\\
+    Return to your main directory and
+    1. execute the outputs-extractor_mod.py script.
         This script:
             Creates an OUTPUT folder to centralize all relevant log files produced by AutoMeKin. The log/out files are renamed to match the corresponding entries in the MINinfo, TSinfo, and PRODinfo documents.
 
